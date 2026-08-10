@@ -338,21 +338,18 @@ The dataset is used for educational and development purposes within this project
 
 ## Swagger UI
 
-Add a screenshot of the Swagger interface here:
 
-```markdown
-![Swagger UI](images/swagger.png)
-```
+<img width="1920" height="1080" alt="Swagger_UI" src="https://github.com/user-attachments/assets/5c1f0e4d-99cb-42b3-a427-4e469b49cca0" />
+
+
 
 ## Example API Response
 
-You can also add a screenshot or example response here:
 
-```markdown
-![API Response](images/api-response.png)
-```
 
----
+<img width="1920" height="1080" alt="Fuzzy_search" src="https://github.com/user-attachments/assets/dc9e616f-4837-46db-b598-cc4648dfa7a2" />
+
+
 
 # ⚙️ Requirements
 
